@@ -11,7 +11,7 @@
 
 **Purpose:**
 
-ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
+ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
 
 The course is made up of four sessions, covering:
 
