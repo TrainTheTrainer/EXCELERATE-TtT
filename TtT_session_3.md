@@ -121,46 +121,6 @@ Your plan for 1h15 session may look like this:
 > - Tell us anything else you think we need to know….
 
 
-##Training material design and development
-
-.......
-
-<a name="mat1"></a>
-### Training materials: designing, producing, delivering
-
-You may find some inspiration in:
-ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
-
-
-<a name="mat2"></a>
-### Training materials: Archival; Sharing; Making re-use possible
-
-Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
-
-Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
-
-<a name="mat3"></a>
-###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
-A general policy for re-use is not yet in place. However, with sharing principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
-
-The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
-
-Many people involved in the production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
-
-Examples from GTPB:
-
-* http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
-* http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
-* https://github.com/sdwfrost/mevr        (repository) 
-* http://sdwfrost.github.io/mevr/         (gitbook) 
-
-Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are gaining popularity.
-
-"Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
-
-Please have a look at this example:
-http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb
-
 
 <a name="design"></a>
 ## From session to course design;
@@ -242,4 +202,58 @@ In some subjects, network connections providing simple browing (Port 80) or SSH 
 Presently, playing with relatively demanding software in local machines is still needed. You may need to play with assemblers and mappers for NGS data, for example. For that, well configured workstations (enhaced  PCs) are still the best choice. Foreseeably virtualised environments on performant hardware will end-up reducing  this need to the level of lightweight terminal equipment, but we are still on the way to get such facilities in place with adequate quality.
 
 The working environment for learners should be entirely reproducible. First, inside the training room, the environment must be the same for everybody. Secondly, the learners should feel that they can reproduce the same  environment when they go home after a training event. Again, virtualised environments can be a solution. However, the training room physical facilities will not travel, so one must think about what will and will not work in a home or a lab environment and at least explain what can be done.
+
+##Training material design and development
+
+Slides
+Notes
+Books/Papers
+Videos
+Exercises/Problems
+Tutorial/Hands on
+Live coding/Interactive exercises
+
+Once you have a plan for each session in your course, you may start thinking about what material is best suitable for each part of each session.
+The procedure is similar for each session.
+
+Also in this case, you should start with learning objectives and learning oucomes.
+
+.......
+
+<a name="mat1"></a>
+### Training materials: designing, producing, delivering
+
+You may find some inspiration in:
+ftp://gtpb.igc.gulbenkian.pt/bicourses/posters/Calix_March2013.pdf
+
+
+<a name="mat2"></a>
+### Training materials: Archival; Sharing; Making re-use possible
+
+Training materials developed ahead for a specific training event have a survival issue. If they reflect too much of a conne ction to other parts of the event they tend to loose autonomy. It also happens that true autonomy is not there if the materials are used out of the original environment, for example slides may not work without a narration (audio).
+
+Designing and producing quality training materials (presentations, exercises, support texts, instructions, worked results, etc.) involve a lot of work. It is a pity not to make specific efforts to create them with autonomy (self sufficiency) in mind. They should be properly stored  (and backed-up) and made available in referenceable public repositories. 
+
+<a name="mat3"></a>
+###  Training materials repositories and resources: GOBLET, TeSS, GitHub, etc.
+A general policy for re-use is not yet in place. However, with sharing principles in mind, GOBLET (the Global Organisation for Bioinformatics Learning Education and Training)  has pioneered a public repository within a training Portal in 2014  http://mygoblet.org/training-portal where a significant amout of work has already been deposited.
+
+The need for referencing training materials in general, in the context of ELIXIR, has led to the development of TeSS, a training e-support system http://elixir-uk.org/elixir-uk-training-sectors/elixir-uk-training-platform. This is all about discovering, packaging and linking training materials, i.e. trying to deal with the excessive fragmentation of the materials, rather than providing a storage repository for them.
+
+Many people involved in the production of training materials are finding it useful to adopt collaborative platforms to support their activity. Git and GitHub, on which this resource is developed and served, is not a de facto standard, but presently it seems to be the smartest choice, especially because updating is left in the hands of the authors. The extended capabilties to produce websites, e-books, etc. are also seen as strenths. 
+
+Examples from GTPB:
+
+* http://mygoblet.org/training-portal/courses/ngs-data-analysis-rnaseq-chipseq    (GOBLET ENTRY) 
+* http://bioinformatics-core-shared-training.github.io/ndarc16/   (gitpages) 
+* https://github.com/sdwfrost/mevr        (repository) 
+* http://sdwfrost.github.io/mevr/         (gitbook) 
+
+Alternatively, the use of electronic notebooks, namely Jupyter ( http://jupyter.org ) and its satellite services are gaining popularity.
+
+"Notebook documents (or “notebooks”, all lower case) are documents produced by the Jupyter Notebook App, which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc...). Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis."
+
+Please have a look at this example:
+http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb
+
 
