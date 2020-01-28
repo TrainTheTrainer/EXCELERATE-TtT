@@ -7,8 +7,6 @@
 **Allegra Via**, ELIXIR-IT, National Research Council (CNR), Italy <br>
 **Patricia Palagi**, ELIXIR-CH <br>
 
-## [ELIXIR - Staff Exchange Programme: What it is and How to apply](./ELIXIR-exchange-programme.md)
-
 **Purpose:**
 
 ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event.
